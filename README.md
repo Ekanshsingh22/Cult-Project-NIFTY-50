@@ -11,7 +11,7 @@ and Risk Assessment Module.
 ```
 nifty50_project/
 ├── data/
-│   └── NIFTY50_all.csv          # Raw dataset
+│   └── NIFTY50_all.csv     https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data/data?select=NIFTY50_all.csv        # Raw dataset
 ├── src/
 │   ├── data_processor.ipynb        # Data loading, cleaning, feature engineering
 │   ├── predictor.ipynb             # Stock Predictor Engine (RF + GBR)
