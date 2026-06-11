@@ -1,0 +1,43 @@
+Symbol,Weight_%,Sector,1Y_Return_%
+BAJFINANCE,15.0,Financial Services,137.41
+HINDUNILVR,15.0,Consumer Goods,5.47
+TITAN,15.0,Consumer Goods,61.19
+JSWSTEEL,11.83,Manufacturing,337.45
+ASIANPAINT,4.87,Consumer Goods,43.5
+DRREDDY,2.3,Pharmaceuticals,33.05
+BRITANNIA,1.0,Consumer Goods,9.26
+AXISBANK,1.0,Banking,62.81
+BPCL,1.0,Energy,16.92
+BHARTIARTL,1.0,Telecom,8.22
+GAIL,1.0,Energy,53.98
+EICHERMOT,1.0,Automobile,-83.08
+CIPLA,1.0,Pharmaceuticals,52.68
+HDFC,1.0,Financial Services,31.76
+HDFCBANK,1.0,Banking,44.54
+HEROMOTOCO,1.0,Automobile,43.09
+HINDALCO,1.0,Manufacturing,213.33
+GRASIM,1.0,Manufacturing,179.26
+ICICIBANK,1.0,Banking,62.1
+INDUSINDBK,1.0,Banking,98.46
+IOC,1.0,Energy,12.86
+INFY,1.0,Information Technology,100.18
+ITC,1.0,Consumer Goods,11.23
+KOTAKBANK,1.0,Banking,31.7
+LT,1.0,Manufacturing,53.13
+HCLTECH,1.0,Information Technology,82.81
+M&M,1.0,Automobile,116.25
+MARUTI,1.0,Automobile,27.37
+ONGC,1.0,Energy,53.4
+NTPC,1.0,Energy,13.58
+SBIN,1.0,Banking,85.95
+SHREECEM,1.0,Manufacturing,45.58
+SUNPHARMA,1.0,Pharmaceuticals,37.01
+RELIANCE,1.0,Energy,39.77
+TATAMOTORS,1.0,Automobile,276.01
+TATASTEEL,1.0,Manufacturing,265.82
+TCS,1.0,Information Technology,59.3
+ULTRACEMCO,1.0,Manufacturing,82.83
+UPL,1.0,Pharmaceuticals,68.3
+VEDL,1.0,Manufacturing,225.02
+WIPRO,1.0,Information Technology,172.77
+ZEEL,1.0,Media,16.44
