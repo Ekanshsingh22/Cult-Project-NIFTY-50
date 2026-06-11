@@ -13,12 +13,12 @@ nifty50_project/
 ├── data/
 │   └── NIFTY50_all.csv          # Raw dataset
 ├── src/
-│   ├── data_processor.py        # Data loading, cleaning, feature engineering
-│   ├── predictor.py             # Stock Predictor Engine (RF + GBR)
-│   ├── portfolio.py             # Portfolio Construction (MV Optimization)
-│   ├── risk_assessment.py       # Risk Assessment Module
-│   ├── eda.py                   # Exploratory Data Analysis + plots
-│   └── main.py                  # Master pipeline script
+│   ├── data_processor.ipynb        # Data loading, cleaning, feature engineering
+│   ├── predictor.ipynb             # Stock Predictor Engine (RF + GBR)
+│   ├── portfolio.ipynb             # Portfolio Construction (MV Optimization)
+│   ├── risk_assessment.ipynb       # Risk Assessment Module
+│   ├── eda.ipynb                  # Exploratory Data Analysis + plots
+│   └── main.ipynb                  # Master pipeline script
 ├── outputs/                     # All generated outputs
 │   ├── eda_overview.png
 │   ├── eda_sector_performance.png
